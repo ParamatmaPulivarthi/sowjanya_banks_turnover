@@ -1,0 +1,10 @@
+"bank name"~turnover
+hdfc~15,34949.15
+icici~1025229.17
+kotakmah~4,02638.98
+axis~3,38067.15
+idbi~95,8577.70
+indusland~61,459.80
+yes~60,198.13
+fedral~48,855.11
+bandhan~27,837.58
